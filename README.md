@@ -7,7 +7,7 @@ I am on a relentless pursuit to change the world one project at a time. I have a
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=poughe&show_icons=true&theme=highcontrast" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poughe&layout=compact" />
+<img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poughe&layout=compact" />
 
 Technologies:
 
