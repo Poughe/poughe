@@ -1,4 +1,8 @@
-# Hi there, I'm Ernest!'
+<h1 align="center">Hi 👋, I'm Ernest</h1>
+<h3 align="center">A US Veteran & Software Engineer On A Mission To Empower His Community</h3>
+
+<br>
+<p align="left"> <a href="https://twitter.com/PoughErnest" target="blank"><img src="https://img.shields.io/twitter/follow/PoughErnest?logo=twitter&style=for-the-badge" alt="PoughErnest" /></a> </p>
 
 I thrive on the grind...You are what you do, not what you say you will do. 
 
@@ -19,4 +23,3 @@ Technologies:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
