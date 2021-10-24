@@ -6,7 +6,7 @@
 
 I thrive on the grind...You are what you do, not what you say you will do. 
 
-I am on a relentless pursuit to change the world one project at a time. I have always been motivated by the power of technology and how it can be utilized as a tool for positive changes around the world. I am a Boston-based full-stack software engineer with a military background of over 10 years.
+I am on a relentless pursuit to change the world one project at a time. I have always been motivated by the power of technology and how it can be utilized as a tool for positive changes around the world. I am a Boston-based full-stack software engineer with a military background of over 10 years. Feel free to message me anytime and connect. 
 
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=poughe&show_icons=true&theme=highcontrast" />
